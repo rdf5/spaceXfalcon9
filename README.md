@@ -1,1 +1,1 @@
-# -Curso-IBM-Skills-Network-Applied-Data-Science-Capstone
+## This repository contains the final assignment of the data science capstone
