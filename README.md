@@ -1,1 +1,1 @@
-## This repository contains the notebooks of the final assignment of the data science capstone
+## This repository contains the notebooks of the capstone project from the specialized program IBM - Data Science
